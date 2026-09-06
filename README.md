@@ -1,7 +1,8 @@
 # Turkey Macroeconomic Indicators Dashboard (2015-2025)
 
-<img width="1170" height="450" alt="Screenshot 2026-09-06 at 13 56 15" src="https://github.com/user-attachments/assets/ea6e3e4f-b0e9-4d1a-8e15-c725bdd11078" />
-<img width="1139" height="390" alt="Screenshot 2026-09-06 at 13 56 39" src="https://github.com/user-attachments/assets/cb1d5828-6b94-4085-a668-28336b1be742" />
+<img width="1167" height="478" alt="Screenshot 2026-09-06 at 15 08 04" src="https://github.com/user-attachments/assets/da00ce2b-e4ab-4019-9073-50abf1f6e811" />
+<img width="1171" height="438" alt="Screenshot 2026-09-06 at 15 08 20" src="https://github.com/user-attachments/assets/9ab4d346-be95-4542-89fd-6d894e538ade" />
+
 
 ## Overview
 This project is an end-to-end data analysis and visualization dashboard built entirely in Microsoft Excel. It consolidates raw macroeconomic data—specifically GDP growth, Inflation, and Unemployment rates—to track Turkey's economic performance over a 10-year period. By applying theoretical economic concepts to real-world data, the dashboard features a calculated Misery Index to provide a holistic view of economic fluctuations and their impact.
